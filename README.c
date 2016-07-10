@@ -28,4 +28,5 @@ printf("\n the branches of the tree is:");
 }
 printf("\n the thickness of the tree is:");
 }
+getch()
 }
